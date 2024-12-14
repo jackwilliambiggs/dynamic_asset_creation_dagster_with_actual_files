@@ -1,0 +1,11 @@
+- name: asset_1
+  description: "Initial asset from random_data_1.csv"
+  directory: "."
+  file_name: "random_data_1.csv"
+  database_url: "sqlite:///example.db"
+
+- name: asset_2
+  description: "Initial asset from random_data_2.csv"
+  directory: "."
+  file_name: "random_data_2.csv"
+  database_url: "sqlite:///example.db"
