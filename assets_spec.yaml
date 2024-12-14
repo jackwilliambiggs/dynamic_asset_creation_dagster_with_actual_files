@@ -1,5 +1,0 @@
-assets:
-  - name: asset_1
-    file: "random_data_1.csv"
-  - name: asset_2
-    file: "random_data_2.csv"
