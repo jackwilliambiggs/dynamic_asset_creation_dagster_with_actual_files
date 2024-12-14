@@ -4,7 +4,7 @@ import os
 from sqlalchemy import create_engine
 
 # Path to CSV files
-CSV_DIRECTORY = "path_to_your_csvs"
+CSV_DIRECTORY = "."
 CSV_FILES = ["random_data_1.csv", "random_data_2.csv"]
 
 # Database connection string
